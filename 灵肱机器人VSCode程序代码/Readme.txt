@@ -1,0 +1,1 @@
+安装VSCode后装PlatformIO插件，用PlatformIO打开项目，点击下方√按钮，保持网络通畅等待半个小时，无需VPN即可自动搭载好编译环境。
